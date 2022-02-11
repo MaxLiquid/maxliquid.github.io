@@ -3,7 +3,7 @@
 header('Content-Type: text/html; charset=utf-8');
 
 // Email recipient
-$EmailTo = "balorake@gmail.com";
+$EmailTo = "maxmwenda68@gmail.com";
 
 $errors = "";
 
